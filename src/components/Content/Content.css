@@ -1,0 +1,13 @@
+.content{
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+}
+.name-article{
+    color: darkgray;
+}
+
+.content-button{
+    margin-top: 20px;
+    margin-left: 20px;
+}
